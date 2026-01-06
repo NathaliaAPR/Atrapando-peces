@@ -22,3 +22,5 @@ contiene:
 - Tu objetivo es alcanzar el puntaje definido (`PUNTAJE_OBJETIVO`) sin perder toda tu vida.
 
 NOTA: Para moverte entre los menus debes hacerlo con las flechas y para seleccionar en los menús debes oprimir Enter.
+
+version de python: 3.12.7
