@@ -24,3 +24,5 @@ contiene:
 NOTA: Para moverte entre los menus debes hacerlo con las flechas y para seleccionar en los menús debes oprimir Enter.
 
 version de python: 3.12.7
+
+Para utilizarlo solo debes descargar el .zip
